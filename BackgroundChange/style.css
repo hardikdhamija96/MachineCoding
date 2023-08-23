@@ -1,0 +1,20 @@
+*{
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+h1{
+    font-size: 36px;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-width: 2px;
+}
+
+p{
+    font-weight: bold;
+    color: inherit;
+}
+
+button{
+    border-width: 2px;
+}
